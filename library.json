@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-colorsensor-tcsp3200",
+  "title": "Color sensor",
+  "keywords": "tcsp3200, esp32, arduino",
+  "description": "Plugin RGB Color detector for KB-IDE",
+  "category":"Sensors",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-colorsensor-tcsp3200/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-colorsensor-tcsp3200/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
